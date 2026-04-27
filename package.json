@@ -1,0 +1,15 @@
+{
+  "name": "backend-nodejs-senior-architect-curriculum",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Programa de 25 proyectos backend Node.js para progresar de Jr a Senior/Architect.",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-curriculum.mjs",
+    "validate:structure": "node scripts/validate-structure.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
+
