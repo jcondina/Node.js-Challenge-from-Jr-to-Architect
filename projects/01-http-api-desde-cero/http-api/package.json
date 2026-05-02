@@ -1,0 +1,19 @@
+{
+	"name": "http-api",
+	"module": "index.ts",
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"start": "bun run index.ts",
+		"hot": "bun --hot index.ts",
+		"debug": "bun --inspect index.ts",
+		"build": "bun run build.ts",
+		"test": "bun test --coverage"
+	},
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5"
+	}
+}
