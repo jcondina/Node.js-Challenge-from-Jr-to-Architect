@@ -51,13 +51,13 @@ El foco es entender HTTP, contratos, validacion, errores y paginacion sin escond
 - Los tests cubren al menos un caso negativo por endpoint principal.
 
 ## Checklist de entrega
-- [ ] El proyecto corre localmente con instrucciones claras.
-- [ ] TypeScript strict esta activo y el typecheck pasa.
-- [ ] Los tests relevantes estan documentados y pasan.
-- [ ] Docker Compose levanta los servicios necesarios cuando aplica.
-- [ ] El README tecnico explica decisiones, tradeoffs y riesgos.
-- [ ] El cuestionario fue respondido por el estudiante en su fork.
-- [ ] No hay secretos reales ni respuestas publicadas.
+- [x] El proyecto corre localmente con instrucciones claras.
+- [x] TypeScript strict esta activo y el typecheck pasa.
+- [x] Los tests relevantes estan documentados y pasan.
+- [x] Docker Compose levanta los servicios necesarios cuando aplica.
+- [x] El README tecnico explica decisiones, tradeoffs y riesgos.
+- [x] El cuestionario fue respondido por el estudiante en su fork.
+- [x] No hay secretos reales ni respuestas publicadas.
 
 ## Defensa tecnica
 Durante la revision, el estudiante debe poder explicar:
